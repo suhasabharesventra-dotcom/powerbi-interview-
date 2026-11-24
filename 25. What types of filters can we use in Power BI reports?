@@ -1,0 +1,16 @@
+What the interviewer wants to know:
+
+They're checking your understanding of how filters work in Power BI and whether you can clearly describe their practical application at different levels of a report.
+	How to approach answering:
+
+Clearly describe each filter type, explicitly mentioning their scope (report-level, page-level, visualization-level) and provide practical examples that reflect common business scenarios.
+
+How you might respond:
+
+    In Power BI, I typically use three main types of filters to control what data shows up in my reports:
+
+        Report-level filters: These apply to every visual across all pages of the entire report. For example, I might use this to filter all visuals in a sales report to only show data from a specific region or time period.
+        Page-level filters: These filters apply only to visuals on a particular page. So if I have a marketing dashboard with multiple pages, I might apply a filter just to the "Campaign Performance" page to show results only from my latest campaigns.
+        Visualization-level filters: These affect just one specific visual. So, if I have a bar chart showing monthly revenue, I might use a visualization-level filter to focus that chart on just the top five performing products.
+
+Practical interview tip: Interviewers often listen carefully for whether candidates clearly differentiate between these filter types. A common mistake candidates make is confusing visualization-level and page-level filters. Make sure your explanation clearly shows you understand exactly where and when each type of filter should be used.
